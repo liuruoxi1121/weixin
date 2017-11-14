@@ -1,7 +1,24 @@
 <view class="header">追剧记录</view>
 <view class="container vertical centered">
-<form>
-<slider show-value/>
+<view>
+<form bindsubmit="formSubmit">
+<input
+  type=""
+  name=""
+  placeholder=""
+  bindinput="inputHandler"
+
+/>
+<picker
+     range="{{items}}"
+     bindchange="inputHandler"
+     name="picker"
+>
+  <view>
+   <text>{{items[pick]}}</text>
+  </view>
+  </picker>
+
 <button form-type ="submit">保存</button>
 </form>
 </view>
