@@ -1,0 +1,50 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/story/index",
+    "pages/music/index",
+    "pages/chazhao/index"
+  ],
+  "window":{
+    
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "金光九界巡游研讨会",
+    "navigationBarTextStyle":"black"
+  },
+    "tabBar":{
+    "selectedColor":"#000000",
+    "borderStyle":"white",
+    "backgroundColor":"#ededed",
+    "list":[
+    {
+    "text":"简介",
+     "pagePath":"pages/index/index",
+    "iconPath":"assets/icons/home.png",
+    "selectedIconPath":"assets/icons/home-active.png"
+},
+
+
+{
+    "text":"剧集",
+     "pagePath":"pages/story/index",
+    "iconPath":"assets/icons/event.png",
+    "selectedIconPath":"assets/icons/event-active.png"
+},
+        
+  {
+    "text":"武戏",
+     "pagePath":"pages/music/index",
+    "iconPath":"assets/icons/story.png",
+    "selectedIconPath":"assets/icons/music-active.png"
+} ,    
+    {
+    "text":"追剧",
+     "pagePath":"pages/chazhao/index",
+    "iconPath":"assets/icons/home.png",
+    "selectedIconPath":"assets/icons/home-active.png"
+}
+
+        
+    ]
+}
+}

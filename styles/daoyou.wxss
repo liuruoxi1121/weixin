@@ -1,0 +1,45 @@
+
+.wenzi{
+font-size:45rpx;
+}
+.header{
+font-size:80rpx;
+text-align:center;
+color:rgba(0,0,0,0.6);
+font-weight:bold;
+}
+.jieshao{
+font-size:45rpx;
+padding:0 15px;
+
+}
+
+.renwu{
+font-size:70rpx;
+text-align:center;
+color:rgba(0,0,0,0.6);
+font-weight:bold;
+}
+.name{
+font-size:70rpx;
+}
+
+.jianjie{
+font-size:40rpx;
+padding:0 15px;
+
+}
+.shihao{
+font-size:45rpx;
+padding:0 15px;
+}
+
+.fu{
+  font-size:35rpx;
+  text-align:center;
+}
+
+.description{
+  font-size:30rpx;
+  text-align:center;
+}

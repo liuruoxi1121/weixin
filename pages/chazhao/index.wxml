@@ -1,0 +1,8 @@
+<view class="header">追剧记录</view>
+<view class="container vertical centered">
+<form>
+<slider show-value/>
+<button form-type ="submit">保存</button>
+</form>
+</view>
+</view>
