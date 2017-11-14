@@ -1,5 +1,11 @@
-<view class="header">追剧记录</view>
+<view>
+<text class="header">{{greeting}}追剧记录</text>
+</view>
 <view class="container vertical centered">
+<view class="image">
+<image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1511273028&di=53c7ff3fc5c3849b64551687f8253517&imgtype=jpg&er=1&src=http%3A%2F%2Fi1.hdslb.com%2Fbfs%2Farchive%2F872ed7792e0d969a37ca8f18d2608851c6d93f48.jpg"></image>
+</view>
+
 <view>
 <form bindsubmit="formSubmit">
 <input

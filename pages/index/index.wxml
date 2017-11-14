@@ -1,4 +1,4 @@
-<view class="header">
+<view class="header">{{greeting}}
 <view>金光布袋戏</view>
 </view>
 <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510585599945&di=a5d3fee19e40aa344dd1472f7d1483f8&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F280086bbc42ee9c92cbf15cb844a5a7eaf498bf0.jpg"

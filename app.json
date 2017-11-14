@@ -9,7 +9,10 @@
     
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "金光九界巡游研讨会",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true,
+      "backgroundTextStyle":"dark",
+      "backgroundColor":"#ededed"
   },
     "tabBar":{
     "selectedColor":"#000000",
@@ -46,5 +49,6 @@
 
         
     ]
-}
+},
+    "debug":true
 }
