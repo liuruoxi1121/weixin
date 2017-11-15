@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/audio/index",
     "pages/index/index",
     "pages/story/index",
     "pages/music/index",

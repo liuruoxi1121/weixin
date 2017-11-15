@@ -1,8 +1,26 @@
 <view class="header">{{greeting}}
 <view>金光布袋戏</view>
 </view>
-<image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510585599945&di=a5d3fee19e40aa344dd1472f7d1483f8&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F280086bbc42ee9c92cbf15cb844a5a7eaf498bf0.jpg"
-mode="aspectFill"/>
+
+<swiper
+        indicator-dots="{{true}}"
+        indicator-color="rgba(255,255,255,0.3)"
+        indicator-active-color="#ffffff"
+>
+
+   <swiper-item>
+   <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510585599945&di=a5d3fee19e40aa344dd1472f7d1483f8&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F280086bbc42ee9c92cbf15cb844a5a7eaf498bf0.jpg"/>
+   </swiper-item>
+   
+     <swiper-item>
+   <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510734664308&di=79afd8877f2d3472c02934fab9d1080b&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2F33d9ef9276f8a8760a298d22efdeb9f215ab976c.jpg"/>
+   </swiper-item>
+   
+     <swiper-item>
+   <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510734703119&di=0c0905617cfb6d0d2f14201557cb8d59&imgtype=0&src=http%3A%2F%2Fww2.sinaimg.cn%2Flarge%2F006lElDXjw1f293x9txmjj31hc0u0wx2.jpg"/>
+   </swiper-item>
+</swiper>
+
 
 <view class="jieshao">
 <view>简介：黄俊雄布袋戏之又称金光系列，因为1950至1970时的布袋戏主流。以声音道具等奇关变景吸引观众的表演形态，被称之为「金光戏」，也就是开始舍弃传统掌中戏偶，而改以较大的戏偶来表演，此一时期的变革给了布袋戏的一个转变契机，后来黄俊雄大师把金光戏的表演型态搬上电视舞台，也就是1970年，云州大儒侠史艳文的故事，後於1994年，黄俊雄大师重新开拍云州大儒侠系列故事时，因为感怀1970年的「金光戏变革」，故把自己旗下的布袋戏事业，称为金光布袋戏。
