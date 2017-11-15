@@ -18,7 +18,7 @@ mode="aspectFill"/>
 <view>剧情简介：赤羽信之介重回西剑流，东瀛几大势力之间的血仇又将何去何从？海境再掀狂澜，未珊瑚阴谋败露，鳌千岁野心勃勃，再次醒来的鳞王又将如何解决此间纷争？夜煌之国初露锋芒，又会牵连何种的恩怨情仇呢？</view>
 <view class="action">
 <button class="button">观看预告片</button>
-<button class="button primary">精彩剧集抢先看</button>
+<button class="button primary" bindtap="tiaozhuan">精彩剧集抢先看</button>
 </view>
 
 <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510327121608&di=706289299c49353346461b27b8d74d87&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2Feaff81a63b1883a046ba1b44af4f3d0c169e6f1b.jpg"

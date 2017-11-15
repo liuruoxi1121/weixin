@@ -8,6 +8,11 @@ Page({
     greet(greeting){
         return greeting[Math.floor(Math.random()*greeting.length)]
     },
+     juese :function(){
+         wx.navigateTo({
+               url: 'juese'
+        })
+    },
     onLoad(){
         console.log('页面加载')
         this.setData({

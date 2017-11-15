@@ -8,6 +8,12 @@ text-align:center;
 color:rgba(0,0,0,0.6);
 font-weight:bold;
 }
+.biaoti{
+font-size:50rpx;
+text-align:center;
+color:rgba(0,0,0,0.6);
+font-weight:bold;
+}
 .jieshao{
 font-size:45rpx;
 padding:0 15px;

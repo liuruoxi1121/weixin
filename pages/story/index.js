@@ -7,6 +7,11 @@ Page({
                url: 'audio'
         })
     },
+    tiaozhuan :function(){
+         wx.navigateTo({
+               url: 'video'
+        })
+    },
       onLoad(){
        console.log('页面')
     },
