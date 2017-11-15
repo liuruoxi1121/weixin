@@ -20,7 +20,11 @@ Page({
         pick:0
     },
    
-    
+    jilu :function(){
+         wx.navigateTo({
+               url: 'liebiao'
+        })
+    },
     
     
     formSubmit(chazhao){
