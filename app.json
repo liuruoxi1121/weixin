@@ -42,8 +42,8 @@
   {
     "text":"武戏",
      "pagePath":"pages/music/index",
-    "iconPath":"assets/icons/story.png",
-    "selectedIconPath":"assets/icons/music-active.png"
+    "iconPath":"assets/icons/event.png",
+    "selectedIconPath":"assets/icons/event-active.png"
 } ,    
     {
     "text":"追剧",
