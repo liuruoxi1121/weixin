@@ -6,7 +6,7 @@ mode="aspectFill"/>
 <view>金光布袋戏最新强档！11月22日，一刀开途！</view>
 <view class="action">
 <button class="button">先导预告片</button>
-<button class="button primary" >片头曲-英雄志</button>
+<button class="button primary"  bindtap="toaudio">片头曲-英雄志</button>
 </view>
 
 <image src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=1cdfddfb64224f4a43947b41689efb37/d52a2834349b033bf59157071cce36d3d439bdd6.jpg"

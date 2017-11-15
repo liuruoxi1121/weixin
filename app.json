@@ -1,10 +1,11 @@
 {
   "pages":[
-    "pages/audio/index",
+    
     "pages/index/index",
     "pages/story/index",
     "pages/music/index",
-    "pages/chazhao/index"
+    "pages/chazhao/index",
+    "pages/audio/index"
   ],
   "window":{
     
@@ -19,7 +20,7 @@
     "selectedColor":"#000000",
     "borderStyle":"white",
     "backgroundColor":"#ededed",
-    "list":[
+ "list":[
     {
     "text":"简介",
      "pagePath":"pages/index/index",
@@ -51,5 +52,6 @@
         
     ]
 },
+  
     "debug":true
 }

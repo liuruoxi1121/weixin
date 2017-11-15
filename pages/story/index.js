@@ -13,5 +13,12 @@ Page({
     },
     onUnload(){
         console.log('页面卸载')
-    }
+    },
+    
+    toaudio:function(){
+        wx.navigateTo({
+            url:'pages/audio/index'
+        })
+    },
 })
+

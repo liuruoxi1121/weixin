@@ -5,14 +5,14 @@
    src="http://www.xiami.com/album/2102778939?spm=a1z1s.3061781.6856533.7.05w4vm"
    author="黄立纲"
    name="英雄志"
-   controls
+   controls 
    bindplay="play"
    bindpause="pause"
    bindended="ended"
   />
   </view>
   
-  <button onlick="story/index.wxml">返回</button>
+  <button>返回</button>
   
   
   </view>
