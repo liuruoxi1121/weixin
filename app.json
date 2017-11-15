@@ -1,11 +1,12 @@
 {
   "pages":[
-    
+   
     "pages/index/index",
     "pages/story/index",
+    "pages/story/audio",
     "pages/music/index",
-    "pages/chazhao/index",
-    "pages/audio/index"
+    "pages/chazhao/index"
+    
   ],
   "window":{
     

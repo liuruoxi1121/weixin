@@ -1,8 +1,16 @@
 Page({
-        onLoad(){
-        console.log('页面加载')
+
+
+    
+    start:function(){
+         wx.navigateTo({
+               url: 'audio'
+        })
     },
-    onShow(){
+      onLoad(){
+       console.log('页面')
+    },
+       onShow(){
         console.log('页面显示')
     },
     onReady(){
@@ -15,10 +23,6 @@ Page({
         console.log('页面卸载')
     },
     
-    toaudio:function(){
-        wx.navigateTo({
-            url:'pages/audio/index'
-        })
-    },
+    
 })
 

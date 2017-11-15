@@ -1,7 +1,5 @@
 <view class="header">追剧记录
 </view>
-<view class="container vertical centered">
-
 
 <view>
 <form bindsubmit="formSubmit">
@@ -15,7 +13,7 @@
    <text>{{items[pick]}}</text>
   </view>
   </picker>
-
+<view>
 <input
   type="text"
   name=""
@@ -23,8 +21,9 @@
   bindinput="inputHandler"
 
 />
+</view>
 
 <button form-type ="submit">保存</button>
 </form>
 </view>
-</view>
+

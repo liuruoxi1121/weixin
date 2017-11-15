@@ -1,12 +1,15 @@
+
 <view class="header">剧集列表</view>
+
 <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510328901083&di=56ac6215bcc04bdc7e64787dfead71bb&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farchive%2Fc50c8399f98b752b27d2958f35c00dbce487b238.jpg"
 mode="aspectFill"/>
+ 
 <view class="wenzi">
 <p>金光御九界之鬼途奇行录</p>
 <view>金光布袋戏最新强档！11月22日，一刀开途！</view>
 <view class="action">
 <button class="button">先导预告片</button>
-<button class="button primary"  bindtap="toaudio">片头曲-英雄志</button>
+<button class="button primary" bindtap="start">片头曲-英雄志</button>
 </view>
 
 <image src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=1cdfddfb64224f4a43947b41689efb37/d52a2834349b033bf59157071cce36d3d439bdd6.jpg"
