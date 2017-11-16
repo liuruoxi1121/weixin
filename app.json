@@ -1,13 +1,13 @@
 {
   "pages":[
-    
+   
     "pages/index/index",
     "pages/index/juese", 
     "pages/story/index",
     "pages/story/audio",
     "pages/story/video", 
     "pages/music/index",
-    "pages/chazhao/index",
+     "pages/chazhao/index",
     "pages/chazhao/liebiao"
     
     

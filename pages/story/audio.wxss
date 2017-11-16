@@ -10,6 +10,19 @@ margin:0 35px;
 }
 .geci{
 margin:0 35px;
-font-size:30rpx;
+font-size:35rpx;
 font-style:bold;
+
+}
+text{
+color:rgba(255,255,255,0.9);
+}
+Page{
+background-image:url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510820832722&di=d63aa070901efbd54a43089becddc636&imgtype=0&src=http%3A%2F%2Fimg5.duitang.com%2Fuploads%2Fitem%2F201608%2F29%2F20160829215030_TnLvH.jpeg);
+background-size:100% 100%;
+}
+audio{
+margin-top:20px;
+
+
 }

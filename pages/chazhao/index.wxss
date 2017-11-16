@@ -5,3 +5,19 @@ margin:8px;
 border:1px solid #dddddd;
 border-radius:4px;
 }
+picker{
+padding:8px;
+background:#ffffff;
+margin:8px;
+border:1px solid #dddddd;
+border-radius:4px;
+}
+Page{
+background-image:url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1510816644446&di=fb11cc7e5107e8ae12f277aa2e440ba4&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201607%2F05%2F20160705193116_tfYQA.thumb.700_0.png);
+background-size:100% 100%;
+}
+
+.choose{
+   margin:0 20px;
+   margin-top:270px;
+}

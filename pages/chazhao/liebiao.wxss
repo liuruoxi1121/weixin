@@ -1,4 +1,24 @@
 .liebiao{
 text-align:center;
-font-size:40rpx;
+font-size:45rpx;
+font-style:bold;
+color:rgba(0,0,0,0.9);
+}
+Page{
+background-image:url(https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3935615410,21113545&fm=27&gp=0.jpg);
+background-size:100% 100%;
+}
+textarea{
+padding:8px;
+background:#ffffff;
+margin:8px;
+border:1px solid #dddddd;
+border-radius:4px;
+width:auto;
+margin-top:10px;
+}
+.juming{
+margin-top:50px;
+font-size:70rpx;
+
 }
